@@ -19,8 +19,4 @@ Payment: <a href="https://rodolfon1.github.io/requestAnalysis/checkout-payment">
 
 
 ### Link Vídeo da análise:
-
-<video controls width="550">
-  <source src="https://github.com/RodolfoN1/requestAnalysis/assets/149804409/b9df6a92-0e2d-4a79-9f9d-5aacacade6be" type="video/mp4" />
-  <a href="https://github.com/RodolfoN1/requestAnalysis/assets/149804409/b9df6a92-0e2d-4a79-9f9d-5aacacade6be">video</a>.
-</video>
+https://github.com/RodolfoN1/requestAnalysis/assets/149804409/b9df6a92-0e2d-4a79-9f9d-5aacacade6be
