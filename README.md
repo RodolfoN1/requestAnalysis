@@ -14,3 +14,6 @@ Página: `checkout#/payment` teve total de: 14 requisições - `GET`: 1 e `POST`
 Cart: https://rodolfon1.github.io/requestAnalysis/checkout-cart <br />
 Shipping: https://rodolfon1.github.io/requestAnalysis/checkout-shipping <br />
 Payment: https://rodolfon1.github.io/requestAnalysis/checkout-payment <br />
+
+### Link Vídeo da análise:
+https://github.com/RodolfoN1/requestAnalysis/assets/149804409/b9df6a92-0e2d-4a79-9f9d-5aacacade6be
