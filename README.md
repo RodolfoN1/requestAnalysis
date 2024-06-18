@@ -4,7 +4,10 @@
 Finalidade da criação dos arquivos é somente para acompanhar o vídeo feito sobre as requisições na loja. <br />
 No checkout, páginas `checkout#/cart`, `checkout#/shipping` e `checkout#/payment` foi colhido <br />
 os dados via devTools, aba Rede e exportanto o HAR com filtro para Fetch/XHR. <br />
-Via código foi adicionado uma condicional para filtrar somente: "api/checkout".  
+Via código foi adicionado uma condicional para filtrar somente: "api/checkout".  <br />
+
+Dentro de cada diretório aqui criado, está o arquivo .har (www.costaatacado.com.br.har) com os <br />
+dados das requisições.
 
 Não houve excessos de requisíções conforme foi apontado.
 
