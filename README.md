@@ -6,8 +6,7 @@ No checkout, páginas `checkout#/cart`, `checkout#/shipping` e `checkout#/paymen
 os dados via devTools, aba Rede e exportanto o HAR com filtro para Fetch/XHR. <br />
 Via código foi adicionado uma condicional para filtrar somente: "api/checkout".  <br />
 
-Dentro de cada diretório aqui criado, está o arquivo .har (www.costaatacado.com.br.har) com os <br />
-dados das requisições.
+Dentro de cada diretório aqui criado, está o arquivo .har  com os dados das requisições.
 
 Não houve excessos de requisíções conforme foi apontado.
 
