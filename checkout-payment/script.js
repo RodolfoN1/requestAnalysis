@@ -1,5 +1,5 @@
 async function getJson(){
-    const response = await fetch('/checkout-payment/data.json');
+    const response = await fetch('/requestAnalysis/checkout-payment/data.json');
     const json = await response.json();
     const obj = [];
     const qtdPost= [];
